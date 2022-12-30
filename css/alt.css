@@ -1,0 +1,22 @@
+.top-container{
+    width: 200px;
+    height: 200px;
+    border: 10px solid;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+.middle-container{
+    width: 200px;
+    height: 200px;
+    border:20px solid;
+    background-color: red;
+    margin-left: 260px;
+}
+.bottom-container{
+    width: 200px;
+    height: 200px;
+    border: 10px solid;
+    background-color: yellow;
+    margin-left: 500px;
+}
